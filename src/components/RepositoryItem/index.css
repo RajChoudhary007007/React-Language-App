@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.repository-item {
+  list-style-type: none;
+  margin: 10px;
+}
+.image {
+  height: 80px;
+  width: 80px;
+}
+.heading {
+  font-size: 12px;
+  font-weight: 500;
+  font-family: roboto;
+  color: #e73959;
+  text-align: center;
+}
+.description {
+  font-size: 10px;
+  font-weight: 500;
+  font-family: roboto;
+  color: #1e293b;
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.filter-item {
+  list-style-type: none;
+}
+.active-tab-btn {
+  border: 2px solid #0284c7;
+}
+.button {
+  border-radius: 20px;
+  outline: none;
+}
